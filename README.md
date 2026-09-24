@@ -87,7 +87,9 @@ An AI-powered surveillance system that allows you to **search CCTV footage using
 
 ## 👨‍💻 Author
 
+Cyril P George(CSE Student)
 Dhavan (CSE Student)
+
 
 ---
 
